@@ -30,6 +30,8 @@ This repository consists of basic to intermediate level machine learning project
 | 6 | [Message Spam Filtering](Message%20Spam%20Filtering) | NLP | Beginner |
 | 7 | [Sentiment Analysis](Sentiment%20Analysis) | NLP | Intermediate |
 | 8 | [Alzheimers Disease Detection](Alzeheimers%20Disease%20Detection) | Machine Learning | Intermediate |
+| 9 | [Anomaly Detection in Transactions](Anomaly%20Detection%20in%20Transactions) | Anomaly Detection | Intermediate |
+
 
 ### Prerequisites
 
