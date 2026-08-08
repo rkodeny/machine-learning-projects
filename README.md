@@ -1,4 +1,4 @@
-<h1 align="center">Beginner Level Machine Learning Projects</h1>
+<h1 align="center">Machine Learning Projects</h1>
 
 <p align="center">
   <img src="assets/classification.png" alt="Project Overview" width="150">
